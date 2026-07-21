@@ -66,6 +66,7 @@ public class Day3 {
            default:
                 System.out.println("Invalid opreator");
         }
+        sc.close();
 
 
 
