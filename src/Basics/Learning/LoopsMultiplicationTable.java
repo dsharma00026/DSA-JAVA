@@ -1,5 +1,7 @@
+package Basics.Learning;
+
 import java.util.Scanner;
-public class Day4{
+public class LoopsMultiplicationTable{
     public static void main(String[] args){
         System.out.println("Today is day 4 of java and today we learn about loop in java ");
 
@@ -48,4 +50,3 @@ public class Day4{
 
     }
 }
-

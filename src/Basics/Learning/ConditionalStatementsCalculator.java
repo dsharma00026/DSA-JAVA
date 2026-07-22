@@ -1,5 +1,7 @@
+package Basics.Learning;
+
 import java.util.*;
-public class Day3 {
+public class ConditionalStatementsCalculator {
 
     
     public static void main(String[] args){
@@ -67,6 +69,7 @@ public class Day3 {
                 System.out.println("Invalid opreator");
         }
         sc.close();
+
 
 
 

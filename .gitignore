@@ -1,0 +1,40 @@
+# Compiled Java class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Java project files
+.classpath
+.project
+*.prefs
+.settings/
+bin/
+build/
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Maven / Gradle (if used later)
+*.iml
+.idea/
+.gradle/
