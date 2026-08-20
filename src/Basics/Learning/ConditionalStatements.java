@@ -1,7 +1,7 @@
 package Basics.Learning;
 
 import java.util.*;
-public class ConditionalStatementsCalculator {
+public class ConditionalStatements {
 
     
     public static void main(String[] args){
