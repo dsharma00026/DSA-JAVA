@@ -54,7 +54,6 @@ public class Strings{
         //also begining index must be given and its option to give  ending  index
         //String name1=sentence.substring(10); here  this print deepak sharma
         String name1=sentence.substring(10,17); //here  this print deepak
-        System.out.println(name1);
-
+        System.out.println(name1);  
     }
 }
